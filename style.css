@@ -1,0 +1,175 @@
+.menu {
+    color: white;
+    background-color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+    
+       
+}
+.menu1 {
+    background-color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.log {
+    margin-left: 1240px;
+    margin-top: -33px;
+}
+
+#tier1 {
+    background-color: #1e93cc;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -40px;
+}
+
+#titre {
+    text-align:center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+.startbuild {
+    border: 0;
+    line-height: 2.5;
+    margin-left: 600px;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    border-color: white;
+    background-color:#e99002;
+
+                display: inline-block
+            }
+
+.startbuild:hover {
+    background-color:orange;
+
+}
+
+.paragraphe {
+    background-color: #1e93cc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tier2 {
+    text-align: center;
+    background-color: white;
+    background-size: 100px ;
+    margin-top : 95px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#tier3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.men{
+   position: absolute;
+   margin-left: 50px;
+}
+#tier4 {
+    text-align: center;
+    color: #786f6f ;
+    background-size: 100px ;
+    margin-top: 30px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tier5 {
+    background-color: #eeeeee ;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.rest {
+    border: 0;
+    line-height: 2.5;
+    margin-right: 5px;
+    margin-left : 500px;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    border-color: white;
+    background-color:#165882;
+    font-family: Arial, Helvetica, sans-serif;
+
+                display: inline-block;
+            }
+
+.rest:hover {
+    background-color:blue;
+}
+
+.boubou {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    margin-right: 5px;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    border-color: white;
+    background-color:#165882;
+    font-family: Arial, Helvetica, sans-serif;
+
+                display: inline-block;
+            }
+
+.boubou:hover {
+    background-color:blue;
+}
+
+.st {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    border-color: white;
+    background-color:#e99002;
+    font-family: Arial, Helvetica, sans-serif;
+
+                display: inline-block
+            }
+
+.st:hover {
+    background-color:orange;   
+}
+
+#tier6 {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#foot {
+    color : white;
+    display: inline-block;
+    background-color: black;
+    background-size: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#foot2 {
+    color : white;
+    display: inline-block;
+    background-color: black;
+    margin-top: -30px;
+    margin-left: 1200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#fooot{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
