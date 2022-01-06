@@ -14,6 +14,8 @@ We used html and css to create this web site.
 
 Take a look of the final version of the web site
 
-![image1] (./images/Capture d’écran de 2022-01-06 10-59-03.png)
+![Image](./images/Capture d’écran de 2022-01-06 10-59-03.png)
+
+
 
 ![image2] (./images/Capture d’écran de 2022-01-06 10-59-07.png)
